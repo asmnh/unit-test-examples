@@ -42,3 +42,6 @@
   - MSTest vs xUnit vs nUnit -> MSTest
   - angular: standard
 - mocki: Moq
+
+https://www.youtube.com/watch?v=fr1E9aVnBxw - effective unit tests
+https://www.youtube.com/watch?v=cjxXv0eifhY - testing legacy systems
